@@ -4,6 +4,8 @@
 
 [최신 포터블 ZIP 다운로드](https://github.com/Deno2026/DENO-Video-Downloader/releases/latest)
 
+![DENO Video Downloader 실행 화면](assets/deno-video-downloader-v1.0.0.png)
+
 ## 사용 방법
 
 1. 릴리스 페이지에서 `DENO-Video-Downloader-v1.0.0-win-x64.zip`을 받습니다.
@@ -64,4 +66,3 @@ dotnet publish .\DenoVideoDownloader.csproj `
 앱 소스는 [GPL-3.0-only](LICENSE)로 배포합니다.
 
 포터블 ZIP에 포함된 yt-dlp, FFmpeg, Node.js는 각각의 라이선스를 따릅니다. 자세한 버전과 고지는 [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt)와 ZIP 내부 `licenses` 폴더에서 확인할 수 있습니다.
-
