@@ -1,0 +1,19 @@
+DENO Video Downloader Portable bundles the following third-party software:
+
+1. yt-dlp 2026.06.09
+   Project: https://github.com/yt-dlp/yt-dlp
+   License copy: licenses/yt-dlp-LICENSE.txt
+
+2. FFmpeg 7.1.1 full shared build by Gyan.dev
+   Project: https://ffmpeg.org/
+   Windows build: https://www.gyan.dev/ffmpeg/builds/
+   License copy: licenses/FFmpeg-LICENSE.txt
+
+3. Node.js 25.5.0
+   Project: https://nodejs.org/
+   License copy: licenses/Node.js-LICENSE.txt
+
+These components remain subject to their respective licenses.
+The DENO Video Downloader application source is available at:
+https://github.com/Deno2026/DENO-Video-Downloader
+

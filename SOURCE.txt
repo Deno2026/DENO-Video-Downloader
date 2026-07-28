@@ -1,0 +1,11 @@
+DENO Video Downloader v1.0.0
+
+Source code:
+https://github.com/Deno2026/DENO-Video-Downloader
+
+Application license:
+GPL-3.0-only
+
+The bundled yt-dlp, FFmpeg, and Node.js components remain subject to
+their respective licenses in the licenses folder.
+
