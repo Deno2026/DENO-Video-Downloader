@@ -1,5 +1,9 @@
 # DENO Video Downloader
 
+<p align="center">
+  <img src="assets/brand/deno-mark.svg" alt="DENO mark" width="104">
+</p>
+
 공개되었거나 다운로드 허락을 받은 영상 링크를 붙여넣어 최고 화질 MP4로 저장하는 Windows용 단일 창 유틸리티입니다.
 
 [최신 포터블 ZIP 다운로드](https://github.com/Deno2026/DENO-Video-Downloader/releases/latest)
